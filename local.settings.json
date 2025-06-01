@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "WEBHOOK_URL": "http://localhost:5678/webhook/ff47bba1-3e4c-42d2-a3fe-236d59e7fe6a/chat",
+    "DISCORD_TOKEN": "your_discord_token_here"
+  }
+}
